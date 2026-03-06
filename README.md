@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Brandon.
 
+I am a business analyst student currently focused on creating and training machine learning models. I enjoy diving into complex datasets, uncovering insights, and building AI-driven solutions that bridge the gap between technical execution and practical solutions.
+
+### 🛠️ What I'm Building and Exploring
+* **Machine Learning:** Developing, training, and evaluating predictive ML models.
+* **AI & LLMs:** Testing and exploring the practical capabilities of large language models.
+* **Data Analysis:** Conducting exploratory data analysis and visualizing robust data pipelines.
+
+---
+⭐️ *Always learning and building.*
 <!--
 **Brandon9010/Brandon9010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
