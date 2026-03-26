@@ -1,0 +1,28 @@
+SKU,Product_Name,Category,Brand,Distributor,Unit_Size,Case_Qty,Case_Cost,Unit_Cost,Unit_Retail
+CHL-PS-1LB,Chlorox Pool Shock (1lb),Pool Shock,Chlorox,BioGuard Logistics,1lb,50,189.47,3.79,7.39
+AQU-PS-5LB,AquaChem Pool Shock (5lb),Pool Shock,AquaChem,BioGuard Logistics,5lb,6,86.5,14.42,29.96
+CHL-PS-17LB,Chlorox Pool Shock (17lb),Pool Shock,Chlorox,Chemical Direct,17lb,1,42.89,42.89,82.29
+AQU-PS-25LB,AquaChem Pool Shock (25lb),Pool Shock,AquaChem,BioGuard Logistics,25lb,1,65.4,65.4,133.63
+INT-LS-1GAL,InTheSwim Liquid Shock (1gal),Liquid Shock,InTheSwim,Chemical Direct,1gal,4,17.5,4.38,8.83
+CHL-CT-1LB,Chlorox Chlorine Tablets (1lb),Chlorine Tablets,Chlorox,PoolCorp Supply,1lb,12,45.89,3.82,7.53
+AQU-CT-11LB,AquaChem Chlorine Tablets (11lb),Chlorine Tablets,AquaChem,PoolCorp Supply,11lb,4,135.94,33.98,66.86
+CHL-CT-21LB,Chlorox Chlorine Tablets (21lb),Chlorine Tablets,Chlorox,Chemical Direct,21lb,1,62.38,62.38,129.1
+INT-CT-25LB,InTheSwim Chlorine Tablets (25lb),Chlorine Tablets,InTheSwim,AquaClear Wholesalers,25lb,1,77.3,77.3,158.15
+INT-BA-32OZ,InTheSwim Basic Algaecide (32oz),Basic Algaecide,InTheSwim,BioGuard Logistics,32oz,12,94.26,7.86,15.52
+INT-CA-32OZ,InTheSwim Copper Algaecide (32oz),Copper Algaecide,InTheSwim,AquaClear Wholesalers,32oz,12,113.62,9.47,19.16
+BIO-MA-32OZ,BioGuard Mustard Algaecide (32oz),Mustard Algaecide,BioGuard,PoolCorp Supply,32oz,12,127.56,10.63,20.29
+AQU-BA-32OZ,AquaChem Black Algaecide (32oz),Black Algaecide,AquaChem,AquaClear Wholesalers,32oz,12,146.79,12.23,25.33
+CHL-PU-2LB,Chlorox pH Up (2lb),pH Up,Chlorox,Chemical Direct,2lb,6,19.56,3.26,6.61
+BIO-PU-5LB,BioGuard pH Up (5lb),pH Up,BioGuard,PoolCorp Supply,5lb,6,34.55,5.76,11.18
+BIO-PD-2LB,BioGuard pH Down (2lb),pH Down,BioGuard,BioGuard Logistics,2lb,6,22.24,3.71,7.17
+AQU-PD-5LB,AquaChem pH Down (5lb),pH Down,AquaChem,PoolCorp Supply,5lb,6,37.86,6.31,12.33
+INT-MA-1GAL,InTheSwim Muriatic Acid (1gal),Muriatic Acid,InTheSwim,PoolCorp Supply,1gal,4,25.46,6.37,13.17
+CHL-S-1LB,Chlorox Stabilizer/Conditioner (1lb),Stabilizer/Conditioner,Chlorox,PoolCorp Supply,1lb,12,67.09,5.59,11.52
+HTH-S-5LB,HTH Stabilizer/Conditioner (5lb),Stabilizer/Conditioner,HTH,AquaClear Wholesalers,5lb,6,81.31,13.55,28.22
+INT-AI-5LB,InTheSwim Alkalinity Increaser (5lb),Alkalinity Increaser,InTheSwim,AquaClear Wholesalers,5lb,6,43.71,7.29,14.57
+HTH-AI-11LB,HTH Alkalinity Increaser (11lb),Alkalinity Increaser,HTH,PoolCorp Supply,11lb,4,58.59,14.65,28.55
+INT-AI-25LB,InTheSwim Alkalinity Increaser (25lb),Alkalinity Increaser,InTheSwim,AquaClear Wholesalers,25lb,1,35.86,35.86,71.21
+INT-CHI-7LB,InTheSwim Calcium Hardness Increaser (7lb),Calcium Hardness Increaser,InTheSwim,Chemical Direct,7lb,6,54.24,9.04,18.98
+AQU-CHI-11LB,AquaChem Calcium Hardness Increaser (11lb),Calcium Hardness Increaser,AquaChem,Chemical Direct,11lb,6,76.73,12.79,24.42
+CHL-CHI-20LB,Chlorox Calcium Hardness Increaser (20lb),Calcium Hardness Increaser,Chlorox,PoolCorp Supply,20lb,1,30.38,30.38,62.53
+HTH-F-2LB,HTH Flocculant (2lb),Flocculant,HTH,BioGuard Logistics,2lb,12,74.14,6.18,12.47
